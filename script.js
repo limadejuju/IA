@@ -56,7 +56,7 @@ const perguntas = [
       },
       {
         texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-        afirmacao: "afirmacao"
+        afirmacao: "afirmacao"https://limadejuju.github.io/IA/
       }
     ]
   },
@@ -72,7 +72,7 @@ const perguntas = [
         texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
         afirmacao: "afirmacao"
       }
-    ] 
+    ] https://limadejuju.github.io/IA/
   }
 ];
 
