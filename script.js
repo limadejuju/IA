@@ -1,3 +1,4 @@
+const caixaPrincipal = document.queryselector(".caixa-principal")
 const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
@@ -43,7 +44,9 @@ const perguntas = [
       {
         texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendo a importância de proteger os trabalhadores.",
         afirmacao: "afirmacao"
-      }
+      }h1 {
+  color: var(--cor-destaque);
+}
     ]
   },
   {
